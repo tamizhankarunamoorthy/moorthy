@@ -8,7 +8,6 @@ class min
   int n=sc.nextInt();
   System.out.println("enter number of digits");
   int k=sc.nextInt();
-  if(k<=
   StringBuffer sb=new StringBuffer(n);
   String s=sb.toString();
   char c[]=s.toCharArray();
